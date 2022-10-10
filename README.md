@@ -140,7 +140,7 @@ MainActivity : ThemeActivity() {
 <p>
 
 ```java
-public class MainActivity implements ThemeActivity {
+public class MainActivity extends ThemeActivity {
 ...
 }
 
